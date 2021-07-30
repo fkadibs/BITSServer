@@ -7,7 +7,7 @@ BITSServer is a basic Python3 server for using the Windows Binary Intelligent Tr
 ## Installation
 
 ```
-git clone <url> && cd bitsserver/
+git clone https://github.com/fkadibs/BITSServer && cd BITSServer/
 pip3 install .
 ```
 
