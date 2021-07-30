@@ -2,7 +2,7 @@
 
 BITSServer is a basic Python3 server for using the Windows Binary Intelligent Transfer Service protocol (BITS), supporting file upload and download from Windows clients using the built-in `bitsadmin.exe` command-line tool, `BitsTransfer` PowerShell module, or COM interface.
 
-**WARNING: BITSServer is uses Python's built-in http.server library and is NOT recommended for production.**
+**WARNING: BITSServer uses Python3's built-in http.server library and is NOT recommended for production.**
 
 ## Installation
 
